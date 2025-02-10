@@ -2,6 +2,11 @@
 Clinic Management System
 The Clinic Management System is a comprehensive platform designed to streamline patient management and optimize medical and administrative operations within clinics. It enables secretaries and doctors to efficiently manage appointments, register patients, and track their status in real time while ensuring data security and privacy.
 
+To Buy it : 
+www.Aleidani.com
+or contact with : https://t.me/aleidanii - https://instagram.com/hussein_aleidani
+
+
 Key Features & Functions
 
 🔹 Patient Management & Appointments
@@ -45,5 +50,6 @@ We are continuously working on new features, including:
 ✅ Enhanced integration with hospital and insurance systems.
 ✅ Online payment support.
 ✅ Smarter notifications and improved invoice management.
+
 
 Designed for efficiency, security, and ease of use, this system helps clinics improve service quality and optimize patient care.
